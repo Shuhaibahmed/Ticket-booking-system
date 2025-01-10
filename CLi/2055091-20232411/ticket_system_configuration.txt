@@ -1,0 +1,7 @@
+---Ticket System Configuration---
+Total Tickets Available: 20
+Max Ticket Capacity: 100
+Ticket Release Rate (seconds): 2
+Customer Retrieval Rate (seconds): 2
+Number of Customers: 2
+Number of Vendors: 2

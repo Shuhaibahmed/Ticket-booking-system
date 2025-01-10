@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.common-container {
+  height: 600px;
+  width: 50%;
+  background-color: rgb(55, 76, 126);
+  padding: 15px;
+}
+
+.vendor-inputs {
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+}
+
+.vendor-input {
+  padding: 10px;
+  min-width: 300px;
+  align-items: center;
+}
+
+.vendor-submit {
+  align-items: center;
+  padding-top: 23px;
+}
+
+body {
+  margin: 0;
+  width: 100%;
+  min-height: 100vh;
+  background-image: linear-gradient(rgba(19, 38, 146, 0.5)), url(../src/assets/123.jpeg);
+  background-size: cover;
+}
+
+.vendor-submit {
+  align-items: center;
+}
+
+.img2 {
+  vertical-align: middle;
+}
+
+.customer-input {
+  width: 400px;
+  display: flex;
+}
+
+.customer-event-select {
+  margin: 5px;
+}
+
+.customer-ticket-input {
+  width: 150px;
+}
