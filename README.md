@@ -1,4 +1,3 @@
-Here's a README file draft that combines the backend, frontend, and CLI components you described:
 
 ---
 
